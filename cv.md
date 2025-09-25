@@ -25,14 +25,14 @@
 - French - Novice
 
 ## Education
-- Tbilisi State University
-**2020 - 2022**
-**Bachelor in Computer Science**
+### Tbilisi State University
+- 2020 - 2022
+- Bachelor in Computer Science
 
-- Georgian Technical University
-**2023 - Present**
-**Bachelor in Computer Science**
+### Georgian Technical University
+- 2023 - Present
+- Bachelor in Computer Science
 
 ## Work Experience
-- Ambest Express
-**Tracking Specialist**
+### Ambest Express
+- Tracking Specialist
