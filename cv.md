@@ -1,10 +1,11 @@
+![My GitHub Avatar](https://github.com/BeBero998.png)
 # Jemo Beria
 **Computer Science Student**
 
 - Residence: Tbilisi, Georgia
 - Phone: 598 87 05 25
 - Email: beria.jemali@gmail.com
-- Discord: Bebero
+- Discord: Bebero998
 - GitHub: https://github.com/BeBero998
 
 ## About Me
@@ -19,8 +20,8 @@
 - CSS
 
 ## Languages
-- Georgian - Native
-- English - Fluent
+- Georgian - Native, every day use
+- English - Fluent, every day use
 - Russian - Intermediate
 - French - Novice
 
