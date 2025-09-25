@@ -1,4 +1,5 @@
-![My GitHub Avatar](https://github.com/BeBero998.png)
+<img src="https://github.com/BeBero998.png" alt="My GitHub Avatar" width="200" />
+
 # Jemo Beria
 **Computer Science Student**
 
@@ -27,24 +28,24 @@
 
 ## Education
 ### Tbilisi State University
-- 2020 - 2022
-- Bachelor in Computer Science
+*2020 - 2022*
+Bachelor in Computer Science
 
 ### Georgian Technical University
-- 2023 - Present
-- Bachelor in Computer Science
+*2023 - Present*
+Bachelor in Computer Science
 
 ## Work Experience
 ### Ambest Express
-- 2021 - Present
-- Tracking Specialist
+*2021 - Present*
+Tracking Specialist
 
 ## Awards
 ### at AUF and Tbilisi State University
-- Bureau National de l’Agence Universitaire de la Francophonie (AUF) – Idéethon – Create an Innovative French-Speaking Game 2023
+*Bureau National de l’Agence Universitaire de la Francophonie (AUF) – Idéethon – Create an Innovative French-Speaking Game 2023*
 - Winner
 
 ## Courses
 ### Introduction to Programing, C# and SQL at David Dvali
-- Aug 2019 - Dec 2020
+*Aug 2019 - Dec 2020*
 
