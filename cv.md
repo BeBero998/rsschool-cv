@@ -35,4 +35,15 @@
 
 ## Work Experience
 ### Ambest Express
+- 2021 - Present
 - Tracking Specialist
+
+## Awards
+### at AUF and Tbilisi State University
+- Bureau National de l’Agence Universitaire de la Francophonie (AUF) – Idéethon – Create an Innovative French-Speaking Game 2023
+- Winner
+
+## Courses
+### Introduction to Programing, C# and SQL at David Dvali
+- Aug 2019 - Dec 2020
+
