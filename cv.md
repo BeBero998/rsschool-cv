@@ -29,16 +29,16 @@
 ## Education
 ### Tbilisi State University
 *2020 - 2022*
-Bachelor in Computer Science
+- Bachelor in Computer Science
 
 ### Georgian Technical University
 *2023 - Present*
-Bachelor in Computer Science
+- Bachelor in Computer Science
 
 ## Work Experience
 ### Ambest Express
 *2021 - Present*
-Tracking Specialist
+- Tracking Specialist
 
 ## Awards
 ### at AUF and Tbilisi State University
