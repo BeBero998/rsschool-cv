@@ -1,5 +1,5 @@
 # Jemo Beria
-**Computer science student**
+**Computer Science Student**
 
 - Residence: Tbilisi, Georgia
 - Phone: 598 87 05 25
@@ -19,7 +19,20 @@
 - CSS
 
 ## Languages
-- Georgian - Fluent
+- Georgian - Native
 - English - Fluent
 - Russian - Intermediate
 - French - Novice
+
+## Education
+- Tbilisi State University
+**2020 - 2022**
+**Bachelor in Computer Science**
+
+- Georgian Technical University
+**2023 - Present**
+**Bachelor in Computer Science**
+
+## Work Experience
+- Ambest Express
+**Tracking Specialist**
